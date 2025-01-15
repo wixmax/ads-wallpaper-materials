@@ -1,8 +1,0 @@
-cd path/to/your/library
-git init
-git remote add origin https://github.com/yourusername/library-repo.git
-
-
-git add .
-git commit -m "Initial commit for library"
-git push -u origin master
