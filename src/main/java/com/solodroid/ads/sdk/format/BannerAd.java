@@ -24,6 +24,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
 import androidx.annotation.NonNull;
+import androidx.core.content.ContextCompat;
 
 import com.ironsource.mediationsdk.IronSourceBannerLayout;
 import com.applovin.adview.AppLovinAdView;
